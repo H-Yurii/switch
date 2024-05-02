@@ -1,0 +1,31 @@
+/* ----- 1. Aufgabe ----- */
+
+.drinks__option {}
+
+.block {
+    width: 300px;
+    height: 300px;
+    background-color: #ff7575;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.drinks__text {
+    font-size: 20px;
+    opacity: 0;
+}
+
+.tea.change {
+    opacity: 1;
+}
+
+.cafe.change {
+    opacity: 1;
+}
+
+.juice.change {
+    opacity: 1;
+}
