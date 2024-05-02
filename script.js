@@ -315,7 +315,7 @@ dateButton.addEventListener('click', function () {
             console.log('It is winter')
             break;
         default:
-            console.log('Write down a number of month, you Bastard!')
+            console.log('Write down a number of month!')
     }
 })
 
